@@ -6,6 +6,7 @@ yolo26n.pt
 tasks/
 src/import_trello.py
 src/missao_*/
+src/gerar_relatorios_missoes.py
 docs/*
 !docs/projeto-final-escopo.md
 !docs/relatorio-projeto-final.md
@@ -23,3 +24,4 @@ outputs/*
 !data/processed/projeto_final_litterwatch/**
 !outputs/projeto_final/
 !outputs/projeto_final/**
+entregas/missoes/

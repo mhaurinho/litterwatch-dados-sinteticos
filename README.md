@@ -168,4 +168,5 @@ vocalização ou ausência de urina.
 
 - [Escopo do projeto](docs/projeto-final-escopo.md)
 - [Relatório técnico](docs/relatorio-projeto-final.md)
+- [Relatório oficial em PDF](entregas/Relatório%2012%20-%20Mauro%20Andrade.pdf)
 - [Roteiro do pitch](docs/pitch-projeto-final.md)

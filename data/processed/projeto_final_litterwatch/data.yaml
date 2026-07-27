@@ -1,0 +1,6 @@
+path: /home/mauro/Projetos/fastcamp-dados-sinteticos/data/processed/projeto_final_litterwatch
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: gato

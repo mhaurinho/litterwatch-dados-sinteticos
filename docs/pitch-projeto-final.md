@@ -1,4 +1,4 @@
-# Roteiro do pitch — LitterWatch - para simpels conferência
+# Roteiro do pitch - LitterWatch - para simpels conferência
 
 ##  Abertura e problema
 

@@ -1,4 +1,4 @@
-# LitterWatch — monitor de visitas à caixa de areia
+# LitterWatch : monitor de visitas à caixa de areia
 
 Projeto final do FastCamp de Dados Sintéticos para Inteligência Artificial e
 Visão Computacional da EMC/UFG.
